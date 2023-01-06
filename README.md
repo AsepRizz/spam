@@ -2,7 +2,9 @@
 
 # Alat
  1.HP
+
  2.Termux/Pydroid3
+
 # Bahan Bahan Yang Harus Diinstall
 $ pkg update && pkg upgrade
 
